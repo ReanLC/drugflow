@@ -1,0 +1,22 @@
+# 编译产物
+dist/
+bin/
+obj/
+
+# 本地测试与调试
+dev/
+test/
+*.log
+*.zip
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# 临时文件
+*.tmp
+Thumbs.db
+
+# 汇报材料（本地保存）
+ppt/
